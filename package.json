@@ -1,0 +1,19 @@
+{
+  "name": "string-manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mohamed Riyas",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "prompt": "^1.1.0",
+    "prompts": "^2.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
