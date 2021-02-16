@@ -6,6 +6,9 @@
 - Npm 6.14 or higher
 - Mocha and Chai 
 
+### Install git
+https://git-scm.com/downloads
+
 ### Clone the repository to your local machine
 `git clone https://github.com/riyastir/NodeJsStringManipulation.git`
 
